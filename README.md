@@ -7,7 +7,7 @@ Repositorium für den Round Table "(Keine) Experimente in den Digital Humanities
 
 ## Zweistündige virtuelle Veranstaltung bestehend aus einem Vortrag und einer _round table_ Diskussion in der ersten vDHd2021 Woche im März 2021
 
-### Jonathan Geiger, Max Grüntgens und Dominik Kasper
+### Jonathan Geiger ([ORCID](https://orcid.org/)), Max Grüntgens ([ORCID](https://orcid.org/0000-0001-8736-9393)) und Dominik Kasper ([ORCID](https://orcid.org/0000-0002-6587-381X))
 
 #### Description
 

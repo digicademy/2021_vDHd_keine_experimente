@@ -1,7 +1,8 @@
-# 2021_vDHd_keine_experimente
-Repositorium für den Round Table "(Keine) Experimente in den Digital Humanities?" auf der vDHd 2021 durchgeführt von Jonathan Geiger, Max Grüntgens und Dominik Kasper.
+### 2021_vDHd_keine_experimente
 
-### März 2021 | Mainz/Online
+> Repositorium für den Round Table "(Keine) Experimente in den Digital Humanities?" auf der vDHd 2021 durchgeführt von Jonathan Geiger, Max Grüntgens und Dominik Kasper.
+
+### März 2021 | Mainz/Online | [Slides](https://digicademy.github.io/2021_vDHd_keine_experimente/)
 
 # (Keine) Experimente in den Digital Humanities?
 
@@ -32,6 +33,8 @@ An dieser Stelle setzt die Veranstaltung an: Einem Vortrag über eine vorgeschla
 Gesamtdauer ca. 2 Stunden. 
 
 Tags: Wissenschaftstheorie, Experiment, Labor, DH Theorie
+
+Slides: [https://digicademy.github.io/2021_vDHd_keine_experimente/](https://digicademy.github.io/2021_vDHd_keine_experimente/)
 
 #### License
 
